@@ -1,0 +1,6 @@
+framework module Pods_swipesTests {
+  umbrella header "Pods-swipesTests-umbrella.h"
+
+  export *
+  module * { export * }
+}

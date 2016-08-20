@@ -1,0 +1,21 @@
+PODS:
+  - Cartography (0.6.0)
+  - ReactiveUI (0.0.3)
+  - UIColor+FlatColors (0.0.2)
+  - ZLSwipeableViewSwift (0.0.7)
+
+DEPENDENCIES:
+  - Cartography
+  - ReactiveUI
+  - UIColor+FlatColors
+  - ZLSwipeableViewSwift
+
+SPEC CHECKSUMS:
+  Cartography: 70af183a248547694a8cfaa6b989cb7e04589985
+  ReactiveUI: 05d1f5d884e5a2496a2cd2ac6c0ed35ab0218c02
+  UIColor+FlatColors: 6c699df7a575281794c688c64cee6c44fd1f93b4
+  ZLSwipeableViewSwift: f5ee94c2e4220f900f5a129118af2aef23062900
+
+PODFILE CHECKSUM: 5f7235eec95195a6478e6136672cf1dbfceb3b02
+
+COCOAPODS: 1.0.1
